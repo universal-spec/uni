@@ -1,0 +1,827 @@
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem2.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem3.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem4.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem5.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 5"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem6.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 6"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem7.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 7"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem8.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 8"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem9.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 9"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem1.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 10"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip1.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip2.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip3.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip4.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip5.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip6.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 6"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip7.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 7"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip8.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 8"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip9.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 9"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip10.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 10"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.ph2.dns-universal.ml",
+    "Flag" : "ph",
+    "Name" : "PHILIPPINES VIDEOS 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.nlfx2.dns-universal.ml",
+    "Flag" : "us",
+    "Name" : "NETFLIX 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv1.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv2.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv3.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv4.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv5.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv6.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 6"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv7.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 7"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv8.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 8"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv9.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 9"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv10.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 10"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem11.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 11"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem12.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 12"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem13.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 13"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem14.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 14"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem15.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM STORIES 15"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip11.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 11"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip12.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 12"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip13.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 13"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip14.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 14"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip15.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP STORIES 15"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv11.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 11"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv12.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 12"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv13.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 13"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv14.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 14"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv15.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE STORIES 15"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem1.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem2.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem3.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip1.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip2.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv1.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv2.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.priv3.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.ph2.dns-universal.ml",
+    "Flag" : "ph",
+    "Name" : "PHILIPPINES STORIES 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.ph2.dns-universal.ml",
+    "Flag" : "ph",
+    "Name" : "PHILIPPINES STORIES 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.nlfx2.dns-universal.ml",
+    "Flag" : "us",
+    "Name" : "NETFLIX STORIES 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "tweetdeck.twitter.com.prem4.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "tweetdeck.twitter.com.vip3.dns-universal.ml",
+    "Flag" : "uy",
+    "Name" : "SMART/TNT GIGASTORIES 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.ph1.dns-universal.ml",
+    "Flag" : "ph",
+    "Name" : "PHILIPPINES STORIES 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "tweetdeck.twitter.com.ph1.dns-universal.ml",
+    "Flag" : "ph",
+    "Name" : "MANILA STORIES 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm1.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm2.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm3.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm4.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm5.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 5"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm6.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 6"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm7.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 7"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm8.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 8"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm9.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 9"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "activity.mobilelegends.com.prm10.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PREMIUM GAMES 10"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip1.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 1"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip2.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 2"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip3.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 3"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip4.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 4"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip5.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 5"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip6.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 6"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip7.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 7"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip8.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 8"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip9.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 9"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "activity.mobilelegends.com.vip10.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "VIP GAMES 10"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private1.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 1"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private2.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private3.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 3"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private4.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 4"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private5.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 5"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private6.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 6"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private7.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 7"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private8.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 8"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private9.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 9"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "activity.mobilelegends.com.private10.dns-universal.ml",
+    "Flag" : "sg",
+    "Name" : "PRIVATE GAMES 10"
+  } ],
+  "Payloads" : [ {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "xhCAbqtl0QZp6D0lh2yNI6AwU476MsFUP9kQ9Pt3r4VCGu0chvfiEF1AC+uZJNC3Vmq6C9+uA0YOssm23ziixg==",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDEDSUN/CTC/TU/FLP 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "enjoy!!!!",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : true,
+    "Host" : "Yqi/2ehPo++U4Bqt/TZSgDdcnQo7d2XlWHgQ0mh/oMNSaxhXA3CLKaDkPhSRsmjJubu82hPm+hTNuq7acaRfK4BxBb1mfYoNJiAnlX17h4Iate+d/31wGZI/kRcTFKjT",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDEDSUN/CTC/TU/FLP 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "1PIMJVGqQkvdMP/XLgwzDbGP1sW1uXaHlckJyNg5FWQJvcV1+Jde+VceULIKhvC49WaKAHka/1lJoKuEzz8d0hyxRg43xyV5m1+ytWfNs3VCsAq/9TroPUdkrr/EXLT7",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED SUN TU200 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : true,
+    "Host" : "PmaC6qMrk7MKWVEy57VDMv3u6ay3DE2k1BxN/OinjqC2r2uvIHFyx9sL8P/o48vegOIvHmd3laoMNWcKfn/MpfGbvTOoq5298DrUGQGOI3VywJyIDlok3ObLvA/SFLD9",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED SUN TU200 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "Xf8ZX5vz3C4dTXEBGeFOse1xa2g/gz8vSMr9BI2kRkBdR/RZGtHmCyBcy8v1IW8ch2ceUcH/FN1fm0WKhH33IQ==",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED GLOBE/TM GOWATCH",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "I4OZnY+tU8K2o/n1gIAKt7K+ZrNerbd4cWVaqubwGrRAJRdkIf9p92oOplMyElA3",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED FREE YOUTUBE",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "XPrl9G+LkXXSoS9XeApnEH56Jz/jTlSUig/LTu37botVUwI0dtBie+gmNVaDnvWE",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED SMART VIBER 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "HFSnMiPyoipuNdcJiQjhn/DV9mTVk+QXvFtf9qf5XH9kNxXK0K5Ctw9IYPvyzhDF",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED SMART VIBER 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "+RKkW7kaJW9zyy2anPQHCnTkTp3Q6pCjgI/kgPsr/6tTo7vignffIbwWC2+hl8Ae8zBXwDu6w+FLUe3I1j1TTw==",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED TNT-ML10 1",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "obHOHfWl345It6RF8crZUihNOEXL1BYarDZm7ZYpA5l1zX5uIcAerYwjIauCG7KAueqASw8KdMw7NKsrGdO1Lw==",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED TNT-ML10 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "FwdcvYtjG3oe/exMAs8Hw+AFU0R3iPTq2vt/dHg/oalkBM7oMMGH1J4TF/KCXBeEdHAopA1oUvsQXUIqSY/OnQ==",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM ALL IN ONE",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "a4039aNOe8KsbifroCmzUEclUhm6MD4Gji3C1vrjhKFjO5AA5RTbYa0B/KuHJQPg",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM GAMES99 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "d0oJEsaiq5sRRja8PK5mJCC+t0WZEfdHmiDhaPTVTR0DLOuAbaJCn4taoT0LWKOu",
+    "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM GAMES99 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "crymaRaiEscDQ3lGfQRqKh1232v2KLkyvCRC5OZCm68JJc/x6ocEShwNlfmdFfo92Ys43246pJPPKGO3vU/sq2kPBiTTsVOUpMmHwjB98Wk=",
+    "Name" : "SMART AT10/AT60",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "cMCa4tUgOayez5fSUjdV988iqPpdaC/ubAm5dY8HF1WTicxJQC0sW0GZd4T+rWLhFhDKUAwvS7IKnwB9n1oUG0gfj47jSZMm4rH1N+h4WazEvagugvFPfgdHxvKyMrOIVIL01VXsbT/X419R49veoQ==",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : false
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : true,
+    "Host" : "xV4WPWEp6v4N1MvaW7u4TdPOG1Z6rKfKFBCS4PLtg8QdPJdMF/WefI/gLo1ppzpl1iOSei/6x0SDjYbtjKioScxzYyXH7p+nS+D0nwQwuH92YZvWx+GduB4JvAlRnMa8",
+    "Name" : "SUN TU PROMO NEW 1",
+    "OnlineHost" : true,
+    "Port" : 8888,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "zZNmp1rjbfaR9byGpQ2onpOO/X4UqNxxDJnTNCSVEYIgrFiJN8tBQfg0qcxv142uxlRLb10Ne9vzWNMAuI9K5Kk7mpj72+MfZANxwmehkNM=",
+    "Name" : "SUN TU PROMO NEW 2",
+    "OnlineHost" : true,
+    "Port" : 8888,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : true,
+    "Host" : "klrv7XNEjhklc3uEi1r8RO3NheURySaR3x1QEMYaZ5jvSnhsFW+4QRMQBb9UTx77qz+8OUgOOAF8ayPSOHQfqiOar2AR0eoDZmCIy6m3fj2oGy8ubLQhZRvnhDCSel3J",
+    "Name" : "SUN FIXED LOAD 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : true,
+    "Host" : "gJVSJmhl0PHbKUX6FmwjBHCMygWA92E7w0xQZEtXVDAn1UaWOHv4G8cbcyWbB5o9rnejpJnz4MNxoRCQMfmanQ==",
+    "Name" : "SUN FIXED LOAD 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "LHdoyMiDD8LRpRfiaBBIy6gP7ZBtc6ut/Bi/H6d21/U/IsCpfNph545g8A5LN0ktZgeydSc+a/OV+ZA4eqzpfA==",
+    "Name" : "SMART/TNT GIGASTORIES 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "enjoy",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "Hajw9QiHbEAMc4/y+D8R/+JFGPkDWs0LRT8kYRhyRTHBBbQL5o7N99qei3OGI1cTFZtg5PTt0h82EYm5ndASsQ==",
+    "Name" : "SMART/TNT GIGASTORIES 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "enjoy",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "l1cFn3MDTNZI45qlvLEEuocVrmVD8P0xE3C9ikh5jz790rj2vcS4xsF1oJ6avrT3ar36bKdEmiK4TBsvnl52xw==",
+    "Name" : "TNT ML10 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "ppX9FL0KYADJmC3cAY81Dsb1knDBSft+hmtanDz8NHiSm/xE6bgCuEXDl6O0POh6uO+hrv1J36IUNCWgy/iNMA==",
+    "Name" : "TNT ML10 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "IZUU6XQMLnUf5tFpgxlJ1VZ7OqD5Lj2S61DJP0hN5DTNXuN+PJ0MI4tOR6j6kyl9",
+    "Name" : "SUN TU no blocking test",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "J+QiJdJ0+LktCAoeSFoN8cvwN45rhiOE/BtsZLR5oh5DgtJqYcpc2uL5kdxSpbRVvQCcKfThGOR5mDjo/Uo4kg==",
+    "Name" : "SMART/TNT GIGASTORIES 3",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "2gb/day",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "2OAVrxNVyeXekgNb11w66zZeRNr4WZy2xWRLQQY9auy8BUKkVBXEvxwPgN/lukJwI5ai23P4RwKK8y2oWC8KLYS8PPRZnCgyU4BCEt/qkRk=",
+    "Name" : "SMART GIGAVIDEOS 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "0pnGHg5D6AOnSMxw56WIsr6a/nGmFRWSbbCl0wPs3VUmSV2RjhtqGDadl2weynAkgiNhnJOu6LodczgvO9WpqKce5uG1OCOLlrR9q7tYpbU=",
+    "Name" : "SMART GIGAVIDEOS 2",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "wBS7quk9UEJZvkniqDL7g8KaW7UpQMGu/l4b7cSUy4FHbXGcrWXsxuLLb/HOumudXNeVe1U9q0yJN4Oa4R8ldTD3NYm/DTMdOklSJpl9IEg=",
+    "Name" : "SMART GIGAGAMES 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "lNn8m4Vj/zda7d/PSnrVVnQSwaWW3wRsA7c6EX3rGlSvgtiE6+RevN9fKZQsvDSGm44rKWpnLxzQVG3xtTV0JLnLqDh4+4EdWTXdJOEdnIo=",
+    "Name" : "SMART GIGAGAMES 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "﻿<strong>\uD83D\uDC3C<font color=\"yellow\"> UNIVERSAL VPN HAS BEEN UPDATED</font>\uD83D\uDC3C</strong>\n<br>\n<strong>⭐<font color=\"red\">What's New?</font>⭐</strong>\n</font>\n<br>\n⭐<font color=\"green\">NEW UPDATED (SERVERS..BY REYMUND RUIZ ..co-owners CHRISTOPHER/SHERMAN/CHAD</font>⭐\n<br>\n⭐<font color=\"red\">BY: UNIVERSAL OWNER: REYMUND RUIZ.....</font>⭐\n\n<br>\n<font color=\"green\">\n<br>\n\n⭐</strong>* VPN COMMON ERRORS & BASIC TROUBLESHOOTING *⭐</strong>\n\n</strong> \n</font>\n<br>\n<font color=\"green\">\n<br>\n\n\n1. WAITING TO SERVER REPLY ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n2. UNKNOWN STATE ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n3. TRANSPORT ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n4. DISCONNECTED SUCCESSFULLY\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n5. AUTH FAILED/ CHECK ACCOUNT DETAILS\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Wrong Spelling username or password.\n<br>\n- Expired account.\n<br>\n- Don't make spacing.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n6. CRASH LOG ERROR/CAUSE OF ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Re-open or restart VPN app.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n7. ALWAYS CONNECTING STATUS: \n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Weak signal status.\n<br>\n- Weak data receive.\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n8. CLIENT VERIFICATION FAILED\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Set your date and time correctly.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n9. PROXY ERROR\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n10. OTHER VPN STARTED OR VPN STOPPED\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Disable power saving mode.\n<br>\n- Allow vpn to run in background.\n\n<br>\nReminder: \n<br>\n\n</strong> \n</font>\n<font color=\"red\">\n\n⭐</strong> Make sure your VPN app is always up to date.⭐</strong></font>\n<br>\n\n<font color=\"yellow\">\n\n<br>\n\uD83D\uDD30<strong>Account Pricing</strong>\uD83D\uDD30\n</font>\n<br>\n<font color=\"blue\">\n<strong>Premium: </strong>P100.00\n<br>\n<strong>VIP: </strong>P150.00\n<br>\n<strong>Private: </strong>P200.00</font>\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\uD83D\uDD30REMINDERS!\uD83D\uDD30</font></strong>\n<br><font color=\"red\">\n⚠️☢️NO DUAL LOGIN☢️⚠️\n<br>\n\uD83D\uDCF5To avoid account termination\uD83D\uDCF5</font>\n<br>\n\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\n\uD83D\uDD30NOW HIRING!\uD83D\uDD30\n</font>\n\n<br><font color=\"red\">\n\uD83D\uDC65Sub-Admin\n<br>\n\uD83D\uDC65Resellers\n<br>\n\uD83D\uDC65Sub-Resellers</font>\n</strong>\n<br>\n<br>\n<i>\uD83D\uDC4DJoin <strong><font color=\"blue\">UNIVERSAL VPN Team </font></strong>\n<font color=\"yellow\"> now and earn extra income \uD83E\uDD11 upto\n</font> <strong>4k per week. </strong></i>\n<br>\n<br>\n\n⭐⭐\n<br>\n<font color=\"yellow\">\n\uD83D\uDD30LIKE US ON FACEBOOK\uD83D\uDD30\n</font>\n</strong>\n<br>\n<strong>FACEBOOK: \n<font color=\"red\">\nUNIVERSAL VPN Official</font>\n</strong>\n<br>\n<font color=\"blue\">https://www.facebook.com/Universal-VPN-Community-111577567022901/</font>\n\n<br>\n\n<font color=\"green\">\n\uD83D\uDC3CFOR MORE CONCERN, CONTACT:09057387851/09190784813</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n\n<font color=\"blue\">https://https://www.facebook.com/reymund.ruiz.756</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL DEVELOPER/OWNERS:by,REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n\n<br>\n",
+  "Version" : 10.2
+}
