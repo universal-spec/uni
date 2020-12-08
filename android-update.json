@@ -308,152 +308,152 @@
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm1.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 1"
+    "Name" : "PREMIUM WORLD 1"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm2.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 2"
+    "Name" : "PREMIUM WORLD 2"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm3.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 3"
+    "Name" : "PREMIUM WORLD 3"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm4.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 4"
+    "Name" : "PREMIUM WORLD 4"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm5.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 5"
+    "Name" : "PREMIUM WORLD 5"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm6.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 6"
+    "Name" : "PREMIUM WORLD 6"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm7.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 7"
+    "Name" : "PREMIUM WORLD 7"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm8.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 8"
+    "Name" : "PREMIUM WORLD 8"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm9.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 9"
+    "Name" : "PREMIUM WORLD 9"
   }, {
     "Category" : 0,
     "DomainOrIP" : "activity.mobilelegends.com.prm10.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PREMIUM GAMES 10"
+    "Name" : "PREMIUM WORLD 10"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip1.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 1"
+    "Name" : "VIP WORLD 1"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip2.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 2"
+    "Name" : "VIP WOLRD 2"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip3.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 3"
+    "Name" : "VIP WORLD 3"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip4.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 4"
+    "Name" : "VIP WORLD 4"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip5.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 5"
+    "Name" : "VIP WORLD 5"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip6.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 6"
+    "Name" : "VIP WORLD 6"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip7.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 7"
+    "Name" : "VIP WORLD 7"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip8.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 8"
+    "Name" : "VIP WORLD 8"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip9.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 9"
+    "Name" : "VIP WORLD 9"
   }, {
     "Category" : 1,
     "DomainOrIP" : "activity.mobilelegends.com.vip10.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "VIP GAMES 10"
+    "Name" : "VIP WORLD 10"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private1.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 1"
+    "Name" : "PRIVATE WORLD 1"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private2.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 2"
+    "Name" : "PRIVATE WORLD 2"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private3.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 3"
+    "Name" : "PRIVATE WORLD 3"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private4.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 4"
+    "Name" : "PRIVATE WORLD 4"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private5.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 5"
+    "Name" : "PRIVATE WORLD 5"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private6.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 6"
+    "Name" : "PRIVATE WORLD 6"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private7.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 7"
+    "Name" : "PRIVATE WORLD 7"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private8.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 8"
+    "Name" : "PRIVATE WORLD 8"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private9.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 9"
+    "Name" : "PRIVATE WORLD 9"
   }, {
     "Category" : 2,
     "DomainOrIP" : "activity.mobilelegends.com.private10.dns-universal.ml",
     "Flag" : "sg",
-    "Name" : "PRIVATE GAMES 10"
+    "Name" : "PRIVATE WORLD 10"
   }, {
     "Category" : 2,
     "DomainOrIP" : "www.google-analytics.com.noloadprivtest.dns-universal.ml",
@@ -464,7 +464,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "wlf2NtOoOmPijjcGMhKJAKlICA8DESzurTT8Thpaxx7M4hIjhmw9o/bTJUflq8HZ9gi2YOb09vsHZ5zESQQ/ag==",
+    "Host" : "p4Zvzxvz3GKOjrlqoCIEPJawIuoVZSIz4jm+DnHls9tRVjtGKBxsc0alfACEtOxbtFRXKAFRQo/PnWF7nrrZNA==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDEDSUN/CTC/TU/FLP 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -477,7 +477,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "DLNNXyd4YKvK7y162xLvirKJAS2p1aanE6Xwr76BmPfHQRUjyx9ixHojMZ7Xz8kNvbEEiheAnvIgRyE7zl9QNC36o3FyK8HavSZfX4XJ9mIgeMMMn682EKNvkH1zjxla",
+    "Host" : "5rGEGhE2Li4ut7lnqJNQSMrzTKjHYSzDpeK0Bg+8nwoTjKwhARmsYNh3vazn6OgwGosz0OuYER0zo98M7aM0ZmayEZ55MoMpRQDsRvL0D+XvsuVEutma4v8x1GYqi+g8",
     "Name" : "\uD83C\uDDF5\uD83C\uDDEDSUN/CTC/TU/FLP 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -490,7 +490,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "csdiVPAd0zXXF0mMz7CV7tfm87JkYK3EpbNVObTMfABiV09ASXjIqjSJq3RVXy+K47aihg8jDw5Nv1eJCkgvQuFDbDEBqK0STAbT54KiQPfUomC4Gjcx1yFFGppUA9Kc",
+    "Host" : "VuboLMleka+0VqRkoBmXy+futcrF74VcNghTeM8yGZyJat8yToYO3sN0NkWbh1Cc8I9Vl+ElPjp0mHrEp+LGntxbfziTFdC4OJvZvdjlox1KW+ssYvjNbGec9xja+CJW",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SUN TU200 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -503,7 +503,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "8Lpd0r76ZvEWZO42uOGdRh+JWNmqNKLzYbcV4XHtPDsvLOrcxvsOQNQbFuBGoxF5B5QK4x3h5veK0Nyeo3zDTQedKm9Pc6qEt4/C4lSsX1w65jUHxQee4xoYvsrZ41FN",
+    "Host" : "MK3V9J3JQmM2yCRalPtJ62mXItICUGbigvzX4p8liDTxv6+puXQQXOhCUjsduWgOv7RMSaRWYYcNb8PRRuHCuZwRYJ6nGhNnb5k99JyP0Np/yTGZjwMZoFTcTIce7uY4",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SUN TU200 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -516,7 +516,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "6SG6x3J4xKDw5/K2Yrn0xVVXObYh1Y1xRiDW9FLWCMXDE6GSaIdQpFtTaz77KlSeDShN6Ug2RgJwD8lobREDGA==",
+    "Host" : "OeI0WMHqNKeZCWsvtu3qZNMtonMYefLW6DbIz6ZJH0NpE4P1A27ZbcOWF0L4FvoJrbS8qxdKlLyHKQuBix4J6w==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GLOBE/TM GOWATCH",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -529,7 +529,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "F6NZCh9hMC0ihQgtEslT5UFy/VoYSDfE2/h0dBWayjCJ5lmcKMtX1svPafWmkGHF",
+    "Host" : "YAzIAyxxioPp8d4O2DpZTcbeG09w1gSjafcvSfXbCGS9Gc95nuVBlQljzlvswzFk",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED FREE YOUTUBE",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -542,7 +542,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "5vKW6FzjUWS6RVMorutoHKdiy8wfo7HbEYeHtX44ZjsUUtql8AHBBRobrHxeIEg6",
+    "Host" : "ouXhXrtmV1LzAzVtwNAw7WQjno4is/ouDunwxxMm9YhfakAxGy19IBu+enlKFW0b",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SMART VIBER 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -555,7 +555,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "lu4daX2ke3iopHLQyzxJJcNgdi9mDPkVGiTgKxmYfW+EF4aRwgzVQr309ntGzpdA",
+    "Host" : "ROm+eg/XSm6hx8mbux0+6J+RNHPtpkva18P0Rh3lzakyYNFkdJm1sf+22FMQw8x0",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SMART VIBER 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -568,7 +568,7 @@
     "Format" : 2,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "KPcCBIFpe8jlsByMzuKD1dXgRIfceCeIyJ4xYdsohE41R2BE0Ij64LeozmUJPKvaApdVvgCfwfSqNe+MElB6pA==",
+    "Host" : "zSotXD1PYusX45Iwas7NBZqkXGWem7LnQUh10rxMz3khrfatdqGav0gOO/OVNBsOyLIAdkR6LAbdJE2rQjoLkQ==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED TNT-ML10 1",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -581,7 +581,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "F7m882FzAI2lUbXrK/oeV6Hbxry9ja/XNTYmkxUrHrK3L0PtTcxzMfTEdbOLmaYH70qqLvWDqcYokZxqgP8yKg==",
+    "Host" : "HP2u5KSJFGfSzhfmDNy3+4lmpXjK7CQzuIWJTZaJxpXs8t9AZNgNXNv5JtEkNSQX3hXV3FPGyK4/yjMEwim1Hw==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED TNT-ML10 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -594,7 +594,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "vKRTc4WVBES6PYlm1hHM9uRSV3/S34CyCWen9wjruLte1XWrkxs81l/XcHIR/EyCl4OzA2tJic4s+MZv/PmsDw==",
+    "Host" : "ddVUe4cgYPe8+NRyWA7cmthtwtlRpeIPQre089YLhC+qIcF/sjPEjQEBwMSUmSZxPG0yb61u9lgaiTRCHic7CA==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM ALL IN ONE",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -607,7 +607,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "MJc2AVX5FuLHcOiz6aKdAyMZCqncMpepD2FCxBt4XkGjmZAf6a+OH8NZobf0rvm5",
+    "Host" : "vVfWuMBjytcYWlnq25OSBb2Q47O6y77YoQkD+NAWtq6zwHaolw9/9YqSrRl7aadX",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM GAMES99 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -620,7 +620,7 @@
     "Format" : 2,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "ZPb72nkUhOGQQI8BQe78fnVY80oyOb012XoFNL+W53v/58PIuJ1PAvLwV+iPCdCS",
+    "Host" : "BVDXPZoN3BAZfhmxCXJ/yYflZwafftGUKhP+lWPTDcaAtwlu7qLOXpdrLNhk+Ine",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM GAMES99 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -633,11 +633,11 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "rCsnIbwXBkFZfRBpzvfWqTRtkMJIAEl2f2Q/GtFMa7EQoQr+7bTEc+TfIO5ryKWAIkT+dR/ILma8/VOLIq9nJuDNEhtwoC4J8pMRuiHfoBk=",
+    "Host" : "e81Svtp/rqIlOaeWC0PaHYPduPemLUMaOpDw7YJNMDkXsAwGydCLdQI15AgN8bL3LtmWiB/Sg5iMQGIC59rd/iVgQWrwQQ+yD5fVBMF30nQ=",
     "Name" : "SMART AT10/AT60",
     "OnlineHost" : true,
     "Port" : 8080,
-    "Proxy" : "CpYAC6KUJmLy6iDx5EO+rHWEixvClY57sxpdO15Xb5YFwQJikKYVOsEPBtYTMp1QB3/Z2soQbNhrJqRDyFhJRGOvkReCC7w5gXZ8aDc2oYF6Ij2RzL07esNH9cgKuzWWhu5qNMbXWIhH2PFKJkd9Jg==",
+    "Proxy" : "s+BRCf0j4jotC0Evt8nCoWmXY3PLOyKiqvWl4OAuXqZRb4vu9Qi+XoQuqsDVCaO3UTQC/1a4OVeVjKy0YESkQE0ZCQagfZ1NeagYER0tK26+AQgFqFGxrBUi3rGLWw2+yPbmVtJ6aCBXUaJnfV0cDg==",
     "ReverseProxy" : false,
     "ShowText" : false,
     "Text" : "",
@@ -646,7 +646,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "ArpOYHcjw0CaclN7ryW4mZeUd1b5rvdBUPwOQZEN7YPI0gexmsdPPwl71ny6Msk2dvP2+bh51d5ifub1vRRE0c7nNoViowLURKq8K6IF4LABHLMRYCKUsYdIL9THAWZR",
+    "Host" : "s2GV/qASPVxZSORL1Y1fPH6ekPEci9TUlBZDHlYjAjn1CKOrWdWCOusfuIsTgHHnTPQAymgb8S3tIih1DHIWNiRNnyTILyx1PtL/NDacKQCv8d27TQEt8Q5Zs+50d8CV",
     "Name" : "SUN TU PROMO NEW 1",
     "OnlineHost" : true,
     "Port" : 8888,
@@ -659,7 +659,7 @@
     "Format" : 2,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "KLsLqc9ljRsEjhppsqdJKmaIy7IDh44dl6MPdppWabIt/7K4EVYQxUmMg8nrVJDBdI9/k+2dFPGnsuz4yn5OxlGU112EaOkl2cFONmw6CEE=",
+    "Host" : "WXKMaTs8urpc778PxYNeheAlq6da6q6auEOY0edAYFkO3kd1ckYlR744cewhkjR4xFbsfwdPoXljmWKNoEwYlaJ8CzYE8hNPw1x1BlQ43u4=",
     "Name" : "SUN TU PROMO NEW 2",
     "OnlineHost" : true,
     "Port" : 8888,
@@ -672,7 +672,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "o8MJLb8sqdE/v+cvlVTTbw6xA9sW6RIHRueeZl0mrMP1oOECFtF/YWjm2Ps07NJjNJjecGc9WwGqUpxRvMPMAoqzNRPT21QfAYRtYXQvbfMAqI5h/dhNEsSd6YNqYm+L",
+    "Host" : "mdhqsuQw8oQkcs1EYAL4CqDymczM0LEJtAzdbgaHZ+r3T7UdKadljoHdTkv59/FHv7p+Lj+vW9Xxx+LCzvjgzDehw9IrT5HxoyDjGfJjBF2X0V1rZ91PzUpEMj7Od/sg",
     "Name" : "SUN FIXED LOAD 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -685,7 +685,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "HHwOEBph3so2LSgZCskKiiqCJqTV37Kev1/GuxUwmor4YBqwjEthLiYxj9HwAps05R46nJR7Swndc1NFPkspPw==",
+    "Host" : "FhcaMNf4d8cciu7LKavzMqxPoNfSYsqnZWCS7y/TQw4fj/QnYkLlVO/1vBqXOVIy5Jw9RW1rOhj8KOk973mEOg==",
     "Name" : "SUN FIXED LOAD 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -698,10 +698,10 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "CaBOBVSV1VogRYDreYgoDAu3kN17MUhf7qPVCrZGRvl9Ai5/aEcTuFrovdTBGYz8T3mHu4ubRRwTJVt98NhaNw==",
+    "Host" : "kGJxUWK8eATVHPFvU3FyviNP7ReDyNhzWgS6vPaOs4CMRRuu3dJDyAvxWhvbSpTkpsZo5FvQ4rXgJhtMko20JQ==",
     "Name" : "SMART/TNT GIGASTORIES 1",
     "OnlineHost" : true,
-    "Port" : 8080,
+    "Port" : 8000,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -711,10 +711,10 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "IQM9iLoUZwiGyw8o7ciDs95hz022iWUogysPBIGLCI0hhBk+AOyNHzr26eN9kW9ssor+CUpVTYeBe+rC5KmnxQ==",
+    "Host" : "Y9MLoQ5fBBQ/K4JeYRoL16sVZ6cFyCCF//G1oyFKzrEzRMgq6ac1EWAk4mo8l5Vy+EAxt8YQYj87ZbExzedn1A==",
     "Name" : "SMART/TNT GIGASTORIES 2",
     "OnlineHost" : true,
-    "Port" : 8080,
+    "Port" : 8000,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -724,7 +724,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "nFN9BFbBRks2kW7Yjxp5Ma6iFkjFpn5Mo6iYP9UlkSq7TPJ9+wklMVYFrUroJM78lb51+ySNJJKAYZA/2AnVFQ==",
+    "Host" : "kmwkEllzXCPtLhJ9qqbiACKMtiZ/Xf2/ZWSFkEp+r/qVszGDPj/Ri3WpWMpDhumUjI2W7hDKV7at4buVTrB+sA==",
     "Name" : "TNT ML10 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -737,7 +737,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "u2+bt1+aZ0oyOlSmkGiJTR1nsTECmdQDexzyPVECrD2y31+mJB9FMd1BGqxqWg7kEMtKn5+8GtIgVXfVjEWOsA==",
+    "Host" : "Kd5hZn+G3UfXYcXhwcJXOl8MSUraLZ7nkm+/O7Qmf216aCCyoO47lUFPyGK9lDsCdiIlgHHrjGADCkbs7DQAXg==",
     "Name" : "TNT ML10 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -750,7 +750,7 @@
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "rKN3zzV9o0GrTErkmBPrkfaIa5oZtTdrj4D8pyitl+WGQRiFvKJR7NHLm3KpeZUB",
+    "Host" : "jcNJJZ4HpLhNSlRLwQOWeCQmQaCxrYGg1CSra7XpXhWlc5VAkfIgW3sgTbRIi8yw",
     "Name" : "SUN TU no blocking test",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -763,10 +763,10 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "6AeRI3cvQAqMlqBmfjdnMgVR/chjVpjYLC+vRTGLd0NQC2St/12hIzq7COA1YwmXa1p8gJ0TFcPKn5SuDM+2lA==",
+    "Host" : "kJZgwUae65TZjDiBinavloodergdCBHIMhgsIROIIUqrH+n6cSliJVaS8CEAloD/MhytKIyRfStxNQtroy3aqA==",
     "Name" : "SMART/TNT GIGASTORIES 3",
     "OnlineHost" : true,
-    "Port" : 8080,
+    "Port" : 8000,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -776,21 +776,73 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "yK4sLnFKScUVAOar35cVu+4gp+Wv5ij8pwVw9RVJu6yuv7ExOKKM0svLM8Ma/zmMVRAmTk2lNndnPMbARBdCyMNjAHZGuRI5faczkBA1Zl4=",
+    "Host" : "BJvDohJm0BoyY3c+1WT054de0HBYHePN+QuhGK2XPiasra7irjnt/0lovioYd+9Otl/F34LaS5xnwj+fjqCfRnRg9XoMS+OaEhPtkZz4LOI=",
     "Name" : "SMART GIGAVIDEOS 1",
     "OnlineHost" : true,
-    "Port" : 8080,
+    "Port" : 8000,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : false,
     "Text" : "",
     "UseDefaultProxy" : true
   }, {
-    "Format" : 3,
+    "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "s8EUJdbCatvfb9uXyhwwGOmSFN4LSEQYiGqOcBzFrWTUAq3V4EszQCAhpLVtb1Gye8NJnRSaUsgqX5rDt+U4xCe0HhVIkh4OSLKzWCwliNw=",
+    "Host" : "fWvyMPIvSVdt7VHtSea5NdSJFdGA3ySbH37TM78KS5nWCB9IGWhoUSTPNXSTpyAhjyTGnC6sFoheBOx2hsmmdMQ3qlqcL7w9sXGhX/7KXks=",
     "Name" : "SMART GIGAVIDEOS 2",
+    "OnlineHost" : false,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "z56geNV5/pdSRZwN6XUV0SdvpJ+EZ/YYV3rXExVUatNu3E36HEE0XyU4qvLxMk9tXhKdmfXzQQfqyOrC641xq11LAGOfKLkIhQg1hCNJTuw=",
+    "Name" : "SMART GIGAGAMES 1",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "7beby8tvlpcHz5c7gTuT6hj7eFYCxw1DWEqS1lpxM40CbrOGVab2man99N9wGY7A6F1G3IgHMqVhGkmfu6epryFIDN27FOv4YyqCqWmjL0s=",
+    "Name" : "SMART GIGAGAMES 2",
+    "OnlineHost" : true,
+    "Port" : 8000,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "pwOYFf6A3qQ2O4CGrQcRb2esUDGBkXLgOg4PLcv7bryXJBNDTZYlOie0qQiE/KGX",
+    "Name" : "GTM NO LOAD 1",
+    "OnlineHost" : true,
+    "Port" : 441,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "QO1mi9yaGKL2l8TNtekj9w3sadp76v1CVjLN+X5kG4Dj+Tq6emSF9BDX/MCih7ae",
+    "Name" : "WORLDNET STORIES 1",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
@@ -802,36 +854,10 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "calzk2ovSKV+Bxt8oGCQechpCOJrYZMyxyQjrF7yJhOavmQrkY5KOJ6iinYupSDjzGWTeRNEGXRzZcDlXTiaO25qlIqfFF1I/IazQXPufQ8=",
-    "Name" : "SMART GIGAGAMES 1",
+    "Host" : "eAK5r/NtTgug6QOBygdqGP/9Qc+ny4ZW+uaCWbAFo9qLhPPSZzrQNgF/yiMJZoZRSmXIIDS+8xCnFgE+4pGfWQ==",
+    "Name" : "WORLDNET STORIES 2",
     "OnlineHost" : true,
     "Port" : 8080,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 3,
-    "ForwardHost" : true,
-    "FullHost" : false,
-    "Host" : "yXiopkQUHu4/hEZlJnjmYP/PkGY/+6LsvD9dMEQU87uXhm1mMAysxfv7c+uLHXZRQhPs8wKelooqlkK6KPMEAzeYI8c4Ew+FEfOE1F2L9oQ=",
-    "Name" : "SMART GIGAGAMES 2",
-    "OnlineHost" : true,
-    "Port" : 8080,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 1,
-    "ForwardHost" : true,
-    "FullHost" : false,
-    "Host" : "b98Glq0/rN4BpUel9AmIaPemjhPPFoFLQ/zQVf0wuo1rhIBFvzLmuMNPR55VHQaz",
-    "Name" : "GTM NO LOAD 1",
-    "OnlineHost" : true,
-    "Port" : 441,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : false,
@@ -840,6 +866,6 @@
   } ],
   "GuiCategories" : true,
   "GuiFlags" : true,
-  "Changelogs" : "﻿<strong>\uD83D\uDC3C<font color=\"yellow\"> UNIVERSAL VPN HAS BEEN UPDATED</font>\uD83D\uDC3C</strong>\n<br>\n<strong>⭐<font color=\"red\">What's New?</font>⭐</strong>\n</font>\n<br>\n⭐<font color=\"green\">NEW UPDATED (SERVERS..BY REYMUND RUIZ ..co-owners CHRISTOPHER/SHERMAN/CHAD</font>⭐\n<br>\n⭐<font color=\"red\">BY: UNIVERSAL OWNER: REYMUND RUIZ.....</font>⭐\n\n<br>\n<font color=\"green\">\n<br>\n\n⭐</strong>* VPN COMMON ERRORS & BASIC TROUBLESHOOTING *⭐</strong>\n\n</strong> \n</font>\n<br>\n<font color=\"green\">\n<br>\n\n\n1. WAITING TO SERVER REPLY ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n2. UNKNOWN STATE ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n3. TRANSPORT ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n4. DISCONNECTED SUCCESSFULLY\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n5. AUTH FAILED/ CHECK ACCOUNT DETAILS\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Wrong Spelling username or password.\n<br>\n- Expired account.\n<br>\n- Don't make spacing.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n6. CRASH LOG ERROR/CAUSE OF ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Re-open or restart VPN app.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n7. ALWAYS CONNECTING STATUS: \n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Weak signal status.\n<br>\n- Weak data receive.\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n8. CLIENT VERIFICATION FAILED\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Set your date and time correctly.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n9. PROXY ERROR\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n10. OTHER VPN STARTED OR VPN STOPPED\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Disable power saving mode.\n<br>\n- Allow vpn to run in background.\n\n<br>\nReminder: \n<br>\n\n</strong> \n</font>\n<font color=\"red\">\n\n⭐</strong> Make sure your VPN app is always up to date.⭐</strong></font>\n<br>\n\n<font color=\"yellow\">\n\n<br>\n\uD83D\uDD30<strong>Account Pricing</strong>\uD83D\uDD30\n</font>\n<br>\n<font color=\"blue\">\n<strong>Premium: </strong>P100.00\n<br>\n<strong>VIP: </strong>P150.00\n<br>\n<strong>Private: </strong>P200.00</font>\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\uD83D\uDD30REMINDERS!\uD83D\uDD30</font></strong>\n<br><font color=\"red\">\n⚠️☢️NO DUAL LOGIN☢️⚠️\n<br>\n\uD83D\uDCF5To avoid account termination\uD83D\uDCF5</font>\n<br>\n\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\n\uD83D\uDD30NOW HIRING!\uD83D\uDD30\n</font>\n\n<br><font color=\"red\">\n\uD83D\uDC65Sub-Admin\n<br>\n\uD83D\uDC65Resellers\n<br>\n\uD83D\uDC65Sub-Resellers</font>\n</strong>\n<br>\n<br>\n<i>\uD83D\uDC4DJoin <strong><font color=\"blue\">UNIVERSAL VPN Team </font></strong>\n<font color=\"yellow\"> now and earn extra income \uD83E\uDD11 upto\n</font> <strong>4k per week. </strong></i>\n<br>\n<br>\n\n⭐⭐\n<br>\n<font color=\"yellow\">\n\uD83D\uDD30LIKE US ON FACEBOOK\uD83D\uDD30\n</font>\n</strong>\n<br>\n<strong>FACEBOOK: \n<font color=\"red\">\nUNIVERSAL VPN Official</font>\n</strong>\n<br>\n<font color=\"blue\">https://www.facebook.com/Universal-VPN-Community-111577567022901/</font>\n\n<br>\n\n<font color=\"green\">\n\uD83D\uDC3CFOR MORE CONCERN, CONTACT:09057387851/09190784813</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n\n<font color=\"blue\">https://https://www.facebook.com/reymund.ruiz.756</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL DEVELOPER/OWNERS:by,REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n\n<br>\n",
-  "Version" : 10.3
+  "Changelogs" : "﻿<strong>\uD83D\uDC3C<font color=\"yellow\"> UNIVERSAL VPN HAS BEEN UPDATED</font>\uD83D\uDC3C</strong>\n<br>\n<strong>⭐<font color=\"red\">What's New?</font>⭐</strong>\n</font>\n<br>\n⭐<font color=\"green\">NEW UPDATED (PAYLOADS..BY REYMUND RUIZ ..co-owners CHRISTOPHER/SHERMAN/CHAD</font>⭐\n<br>\n⭐<font color=\"red\">BY: UNIVERSAL OWNER: REYMUND RUIZ.....</font>⭐\n\n<br>\n<font color=\"green\">\n<br>\n\n⭐</strong>* VPN COMMON ERRORS & BASIC TROUBLESHOOTING *⭐</strong>\n\n</strong> \n</font>\n<br>\n<font color=\"green\">\n<br>\n\n\n1. WAITING TO SERVER REPLY ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n2. UNKNOWN STATE ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n3. TRANSPORT ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n4. DISCONNECTED SUCCESSFULLY\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n5. AUTH FAILED/ CHECK ACCOUNT DETAILS\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Wrong Spelling username or password.\n<br>\n- Expired account.\n<br>\n- Don't make spacing.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n6. CRASH LOG ERROR/CAUSE OF ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Re-open or restart VPN app.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n7. ALWAYS CONNECTING STATUS: \n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Weak signal status.\n<br>\n- Weak data receive.\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n8. CLIENT VERIFICATION FAILED\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Set your date and time correctly.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n9. PROXY ERROR\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n10. OTHER VPN STARTED OR VPN STOPPED\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Disable power saving mode.\n<br>\n- Allow vpn to run in background.\n\n<br>\nReminder: \n<br>\n\n</strong> \n</font>\n<font color=\"red\">\n\n⭐</strong> Make sure your VPN app is always up to date.⭐</strong></font>\n<br>\n\n<font color=\"yellow\">\n\n<br>\n\uD83D\uDD30<strong>Account Pricing</strong>\uD83D\uDD30\n</font>\n<br>\n<font color=\"blue\">\n<strong>Premium: </strong>P100.00\n<br>\n<strong>VIP: </strong>P150.00\n<br>\n<strong>Private: </strong>P200.00</font>\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\uD83D\uDD30REMINDERS!\uD83D\uDD30</font></strong>\n<br><font color=\"red\">\n⚠️☢️NO DUAL LOGIN☢️⚠️\n<br>\n\uD83D\uDCF5To avoid account termination\uD83D\uDCF5</font>\n<br>\n\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\n\uD83D\uDD30NOW HIRING!\uD83D\uDD30\n</font>\n\n<br><font color=\"red\">\n\uD83D\uDC65Sub-Admin\n<br>\n\uD83D\uDC65Resellers\n<br>\n\uD83D\uDC65Sub-Resellers</font>\n</strong>\n<br>\n<br>\n<i>\uD83D\uDC4DJoin <strong><font color=\"blue\">UNIVERSAL VPN Team </font></strong>\n<font color=\"yellow\"> now and earn extra income \uD83E\uDD11 upto\n</font> <strong>4k per week. </strong></i>\n<br>\n<br>\n\n⭐⭐\n<br>\n<font color=\"yellow\">\n\uD83D\uDD30LIKE US ON FACEBOOK\uD83D\uDD30\n</font>\n</strong>\n<br>\n<strong>FACEBOOK: \n<font color=\"red\">\nUNIVERSAL VPN Official</font>\n</strong>\n<br>\n<font color=\"blue\">https://www.facebook.com/Universal-VPN-Community-111577567022901/</font>\n\n<br>\n\n<font color=\"green\">\n\uD83D\uDC3CFOR MORE CONCERN, CONTACT:09057387851/09190784813</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n\n<font color=\"blue\">https://https://www.facebook.com/reymund.ruiz.756</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL DEVELOPER/OWNERS:by,REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n\n<br>\n",
+  "Version" : 10.4
 }
