@@ -1,457 +1,447 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem1.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 1"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem2.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem3.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 3"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem4.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 4"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem5.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem5.teamuniversal-vpn.xyz",
     "Flag" : "in",
     "Name" : "STORIES 5"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem6.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem6.teamuniversal-vpn.xyz",
     "Flag" : "in",
     "Name" : "STORIES 6"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem7.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem7.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "STORIES 7"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem8.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem8.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "STORIES 8"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prem9.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prem9.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "STORIES 9"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip1.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip2.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip3.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 3"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip4.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 4"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip5.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 5"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip6.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip6.teamuniversal-vpn.xyz",
     "Flag" : "in",
     "Name" : "STORIES 6"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip7.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip7.teamuniversal-vpn.xyz",
     "Flag" : "in",
     "Name" : "STORIES 7"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip8.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip8.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "STORIES 8"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip9.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip9.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "STORIES 9"
   }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vip10.dns-universal.ml",
-    "Flag" : "us",
-    "Name" : "STORIES 10"
-  }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv1.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv2.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv3.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 3"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv4.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 4"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv5.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "STORIES 5"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv6.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv6.teamuniversal-vpn.xyz",
     "Flag" : "in",
     "Name" : "STORIES 6"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv7.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv7.teamuniversal-vpn.xyz",
     "Flag" : "in",
     "Name" : "STORIES 7"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv8.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv8.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "STORIES 8"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv9.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.priv9.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "STORIES 9"
   }, {
-    "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.priv10.dns-universal.ml",
-    "Flag" : "us",
-    "Name" : "STORIES 10"
-  }, {
     "Category" : 0,
-    "DomainOrIP" : "staging.iwant.ph.prem1.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.prem1.teamuniversal-vpn.xyz",
     "Flag" : "de",
     "Name" : "GIGAVIDEOS 1"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "staging.iwant.ph.prem2.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.prem2.teamuniversal-vpn.xyz",
     "Flag" : "de",
     "Name" : "GIGAVIDEOS 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "activity.mobilelegends.com.prem1.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.prem1.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAGAMES/ML10 1"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "activity.mobilelegends.com.prem2.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.prem2.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAGAMES/ML10 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.google-analytics.com.prem1.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.prem1.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAWORK/STUDY 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.google-analytics.com.prem2.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.prem2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GIGAWORK/STUDY 2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "staging.iwant.ph.vip1.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.vip1.teamuniversal-vpn.xyz",
     "Flag" : "de",
     "Name" : "GIGAVIDEOS 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "staging.iwant.ph.vip2.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.vip2.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAVIDEOS 2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "activity.mobilelegends.com.vip1.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.vip1.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAGAMES/ML10 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "activity.mobilelegends.com.vip1.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.vip1.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAGAMES/ML10 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.vip1.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.vip1.teamuniversal-vpn.xyz",
     "Flag" : "de",
     "Name" : "GIGAWORK/STUDY 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.vip2.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.vip2.teamuniversal-vpn.xyz",
     "Flag" : "de",
     "Name" : "GIGAWORK/STUDY 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "staging.iwant.ph.priv1.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.priv1.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAVIDEOS 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "staging.iwant.ph.priv2.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.priv2.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAVIDEOS 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "activity.mobilelegends.com.priv1.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.priv1.teamuniversal-vpn.xyz",
     "Flag" : "gb",
     "Name" : "GIGAGAMES/ML10 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "activity.mobilelegends.com.priv2.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.priv2.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "GIGAGAMES/ML10 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.test.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prem1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 1"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.prem2.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prem2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.prem3.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prem3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 3"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.prem4.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prem4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 4"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.prem5.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prem5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 5"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.vip1.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vip1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.vip2.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vip2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.vip3.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vip3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 3"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.vip4.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vip4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 4"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.vip5.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vip5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 5"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.priv1.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.priv1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.priv2.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.priv2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.priv3.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.priv3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 3"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.priv4.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.priv4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 4"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.priv5.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.priv5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "SUN FIX PLAN SERVER 5"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.google-analytics.com.prem1.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.prem1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 1"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.google-analytics.com.prem2.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.prem2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 2"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.google-analytics.com.prem3.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.prem3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 3"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.google-analytics.com.prem4.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.prem4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 4"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.google-analytics.com.prem5.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.prem5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 5"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.google-analytics.com.vip1.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.vip1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.google-analytics.com.vip2.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.vip2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.google-analytics.com.vip3.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.vip3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 3"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.google-analytics.com.vip4.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.vip4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 4"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.google-analytics.com.vip5.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.vip5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 5"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.priv1.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.priv1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.priv2.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.priv2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.priv3.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.priv3.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 3"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.priv4.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.priv4.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 4"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.priv5.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.priv5.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GTM PROMOS 5"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.priv1.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.priv1.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GIGAWORK/STUDY 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.priv2.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.priv2.teamuniversal-vpn.xyz",
     "Flag" : "sg",
     "Name" : "GIGAWORK/STUDY 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.ph1.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.ph1.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGASTORIES PH1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.ph2.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.ph2.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGASTORIES PH2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "staging.iwant.ph.ph1.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.ph1.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGAVIDEOS PH1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "staging.iwant.ph.ph2.dns-universal.ml",
+    "DomainOrIP" : "staging.iwant.ph.ph2.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGAVIDEOS PH2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.ph1.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.ph1.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "SUN/FLP PH1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.ph2.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.ph2.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "SUN/FLP PH2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "activity.mobilelegends.com.ph1.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.ph1.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGAGAMES/ML10 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "activity.mobilelegends.com.ph2.dns-universal.ml",
+    "DomainOrIP" : "activity.mobilelegends.com.ph2.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGAGAMES/ML10 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.ph1.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.ph1.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGAWORK/STUDY 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.google-analytics.com.ph2.dns-universal.ml",
+    "DomainOrIP" : "www.google-analytics.com.ph2.teamuniversal-vpn.xyz",
     "Flag" : "ph",
     "Name" : "GIGAWORK/STUDY 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.nlfx1.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.nlfx1.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "GIGASTORIES NETFLIX 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.nlfx2.dns-universal.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.nlfx2.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "GIGASTORIES NETFLIX 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.nlfx1.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.nlfx1.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "SUN/FLP NETFLIX 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.nlfx2.dns-universal.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.nlfx2.teamuniversal-vpn.xyz",
     "Flag" : "us",
     "Name" : "SUN/FLP NETFLIX 2"
   } ],
@@ -459,7 +449,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "pNhd8mPmRJFESrG2+nmlrRH5eh2CLBLjDSRfAgdtA4w+oV2qsKxztzSiHZh8SmegRvz8l9ESZyvLvRf3gIcRNQ==",
+    "Host" : "V6+GoD6eWybjHglQHj9Gj9fUabKAQ6hkzoE3UsJhhvOsYDu2Wc9TpZybq6o4D2SRecAB3vqt7L27jFlcgv3i0g==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDEDSUN/CTC/TU/FLP 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -472,7 +462,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "dJq4EofgjZ3ji/6rgUgAjrkrFbDJ8hgqhjXw6rTRRTFTUCw96glrTwJm+kHTECrSwA8kEmh1SDLB2lTw1YOMWt6R8mgFxUB6j1m8YDfRXiWGm/Po7bgNnmHDim9UbeOh",
+    "Host" : "xVDrBdFq3dmUI6u+sAVoWwQviqZy4hYd7xx3yOzxFdiW1ZGu9AeY0PEwgC0cwLKx+M3S+nziqKAoQAW5EYHTm9Xy7axn1NUXcjjvyI8awIhAN3YhzUkBF4osOAhaIkyz",
     "Name" : "\uD83C\uDDF5\uD83C\uDDEDSUN/CTC/TU/FLP 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -485,7 +475,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "LbpuP322PO4ef3vuunhJFUB+sCiPyljpuMo/H8EXFsQuFPvuBAjZUtEK1tmjuCtYn4foOikPNvJTXJcTapPyl2U8wgmGSFQeTa5h2sHtXxoO+43Auu7ZLt/97FSV7McB",
+    "Host" : "S6/fORrPm5F4cYJakA6ErUiIyky/3/Hj2ty5lptNaAtZm+3HGxpjWUzmpf4fGLqn7ak8u+S8DzO0w5cQNciJbpniRoA2ZFzTeWsWyF9BxzA9NzwQPNyzcsUmx+CNonib",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SUN TU200 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -498,7 +488,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "wOeVyJ931rsb8bbBzUPCfHxSi7QAGNycy1sSg3I3ucugFxu4pjc68Actx2jHvkJTYTZ73l+NZE6jmeLWoDlo6HynHofYwkBYSf/UMnKTIiMsKU5jjRizAu/m3nKI8pz+",
+    "Host" : "XcPJMSQGymLEukWMPxl9fcmnnmfS5IP0qDz+NFzqipuseqT2sAqUaUHCG9/wNnZ2VzoDnsNQMUGJaFC7tl8UR7h5P2sIYcp+A7jI58u2AHaYkbki0VZB9SyHYxOWKshv",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SUN TU200 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -511,7 +501,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "Bje84O6he/+ewuByBQnbhcVgRbJ6h4MlzxvznywkYGW9L/ik9RCN5c4xtZY7fDshDLrzIInrov4y7CqHObtFXQ==",
+    "Host" : "UlRlYtAEfrGWpjSlwXRZvqUJ5JVKVjf1MRS01TDtDCWLJmJ0AB2Yn22nn5ihiFT5E2FENkUebTFJ9ptdxDhjtQ==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GLOBE/TM GOWATCH",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -524,7 +514,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "4/IoLHf8yt2Ra0s+Aq0Qq0DMP8EvLi4lLUjAO/3wuMP+wYozVbfor0s03DF8WOgx",
+    "Host" : "g4gORgBGLmk9yrSWqswh7sDctTJU5HxkRQq4f84VV0wt/stpwbnLhD7OC8vFNDVu",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED FREE YOUTUBE",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -537,7 +527,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "HEkEPxlm//TQgD/u8nuc/MjUPI5c3Th4es1c9BZgv9xjPNGXK+9ZxOB4Diz0ESKH",
+    "Host" : "gicugYu6FrmkwapD6Qtbz2D6zcxgyiGfOGnaO7gD5c5edchkvDil4ChmZYtGNfVq",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SMART VIBER 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -550,7 +540,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "t62j8hcJOFXD96IdpalmjRKXlrBRJNJ40XXWZZ2Yj1Oum/WozsvDXbqpqx9SKQhU",
+    "Host" : "9xsRTRgJV3YAXfDHRzxYEhJGQ8/yatIFiUr2eifmdRrORl/uwcmTZhOSDHnmaPQ6",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED SMART VIBER 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -563,7 +553,7 @@
     "Format" : 2,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "2uHPWqC2fw9B8pgH/MnUHS9s/PTRgqVHK3+zg2dKQzsLzPkYcIvt98E2gbnrC9H81mmhAf03z06HXp+dgtGmrA==",
+    "Host" : "dJpPCMY+YcHy/mcuP90jQALokZHhgozkdwqSyEMMUVsWRm/IalmC1K2ok4qsJqxI5ipr5gxdC8aKW6mBg/BGgQ==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED TNT-ML10 1",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -576,7 +566,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "C5r0G+yUSuDYYg75Svj0AaS6PLIWE/GaVYt3K9FaAVSXb7HpbruaVPMPVpch+KXxIEI1nRgUS7y5QZV/uw4aFg==",
+    "Host" : "Lh2Okwke43e0E2ONghdzQUn4TPV/tcg+VIOcxlPpLCT8Lq+r5ZA95vH6fi2FmM+AznpILXLD88ywRfzQQIWAlA==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED TNT-ML10 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -589,7 +579,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "4P3+87iWtHK7/Te6gNG9YlcZn/jZytqJyH5RCwY/APXikSaKkGvCAl4T6PQB4K51H9fMa3jTgob3X6F62XhJVg==",
+    "Host" : "ak0E6lpt9mni5USlGowCOF0F0/A/+M2uDD6uFzp7+IiN0DxPlzIwNNYmheg9Y5rSUoanWFbCTQgNMCm1cpbBVQ==",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM ALL IN ONE",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -602,7 +592,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "rWrL3asfKFQ3qRG6sHq+H6NVfylJaIR8aVMixUVaqDWJuE0IoeKMBraoHeAI0KwY",
+    "Host" : "fR3GkSDogm2hDcUi2aWeHuWKZPhxCvT9hQkAzcBrVPUBtcRI4gWxRiqTtTwatvil",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM GAMES99 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -615,7 +605,7 @@
     "Format" : 2,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "MVKRq/yw6RfeWXEIb4RJa3CzSnG2dFPkUCpJ6JpHo325FYcXV96bdRMNPGMRjWi0",
+    "Host" : "0NOeiWCDqmxaygVzQuiG6Hlg/zTxSsGHvw2aftUkEJ2H0dP3PFTjS8vuXJjOffNg",
     "Name" : "\uD83C\uDDF5\uD83C\uDDED GTM GAMES99 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -628,11 +618,11 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "jQO9tMZZZWVl8KvZ/GWcxoWb+F0n7om3Zu0tIrWuaqvOCsGhtsHWxu8C/hVr08n1eSpHXgQEl/sqri5l1m6/6lI/dIGq8pGd9p269v0ewGI=",
+    "Host" : "8CEm+QT1d2XRu7hT3EgjcrEPufyDnNnATNoIx73VEPx/f0jdp89TTdDG29FAxjslZklL3QG3LvnrRW8C2EYGMs0lM/qnkwmPjuKmfzI+1hY=",
     "Name" : "SMART AT10/AT60",
     "OnlineHost" : true,
     "Port" : 8080,
-    "Proxy" : "I44O8AgqxL3sEIHBZb6gBgWX234x22mUsaRmysx1EAyyVKglJRbndwfQREGGoGU2qB7shVseg5KUvW+dOMMsAxN4U0F3fyE5G5YxGaJMsXvpEZaY74op09pezALw8DM39zsu9IYwQah0kyDEZXAvlg==",
+    "Proxy" : "kuIecxhr6ViUEJGsATiTLKDTJwXDPjvAIl8g7HobHOzzGckIONQREo77t3SH10tJLBrPlBorgGGpzLKBrJ6QkBzQsRUoOjDP4cmlJfpux8gq6pfTbSts5diY6JmWq3TCNe8uEtI9AI8h9bP56aqqUA==",
     "ReverseProxy" : false,
     "ShowText" : false,
     "Text" : "",
@@ -641,7 +631,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "pv4lJR8EEKCPLQVKfx48Le4TmalpUIOJrPyLDB3UuB4Z1YQ91PqQxyN5/iognmXUAmN8iHTFmcH7nGFITZMjTLC+iolQlgZj2zMB5YYISX4uVLZSxpZbM3LU9kE3Vamu",
+    "Host" : "kcT01GtOL5xTHprW16WxBWsfJs4wme2iwU13+iPuNOlXmVxcGksHNrE6zhbjtc9eUqjdz8DEnSZr+yM5mEDPzF7xB8QyLoeQ6tZgN3ydpLDRXd+ICWPDDZjaXEFLMIkZ",
     "Name" : "SUN TU PROMO NEW 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -654,7 +644,7 @@
     "Format" : 2,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "ZNWIqGULH1v4RK+XGQXDF//kMSgvbZQXuBpQjiuQEKYJNkBXYrNd8Rs23hdkLE+CrB9RPt8ekmkrqNwi1D5NuX6GF7iORnhkKog3eFmkY2k=",
+    "Host" : "95zB759pNd4qatm7EsTqhnaxMbhvaV52t16DpAXxNNRT2JvixXjP5JpckAOFUFywHpTvWK9D21UgWC8vUNNod/V7hRMILz2b74353mhQtKw=",
     "Name" : "SUN TU PROMO NEW 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -667,7 +657,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "S/6w9H5RORuPIEqFcOSisAaV3icuNbwBDY6ne9atigWgLkOPhkfynTNjDviPAvEqTUalnYGmdVygg544kBWW/g==",
+    "Host" : "mfPJONwVVfg1NFkoKc0qCYYGqc3c+5DriFeriJFxRTfKqSJ2H11Rn7eJYLaPaKMJNkrqT0MGF3RmE9h8eT4PXQ==",
     "Name" : "SUN FIXED LOAD 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -680,7 +670,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : true,
-    "Host" : "YtK9HGbUnR+/HpYHVE36Yck7y68HdL8yJ467wGOUUlZVpOyhp2fM0hQVxzTZtCbjBU0ANtIfVu7JrzhSbB0hnw==",
+    "Host" : "E0cjqqQV+bOKmBvaCqzpRMv3HWMkKslUO2pfN8/DWHJ3dmyHmhaH0/+++nmed3FrTyWyVlKlROz/onXEmJOHuA==",
     "Name" : "SUN FIXED LOAD 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -693,7 +683,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "73OsaZIRf7IpyHn5mrwJv+QoeXSCIuWMxultZegK0C8k8kSSpTZdQkUtQ+ZwEyWadK4hbpSHUuWu+ZGcFFrkSw==",
+    "Host" : "zbxNYUyVx+p3RvXPGwFV89BMs+RRF4Y1aOcQ60aE7MKPXJGJEMoHSO/PcGVezdG7dVQdVVQxgR3NPq30myAWWA==",
     "Name" : "SMART/TNT GIGASTORIES 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -706,7 +696,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "E6bHNFcZmEbUW6wrJZ5JgDAYL2B6Bk0Zc/0S/loawCWi1qUcataxc08CL+ild2v6iMTZlEPfNh+q5kyOlf70og==",
+    "Host" : "gQxADG4NS+C8fUqn122JwwyhacR7QwqXr8JmSnfzvRZygs0l0muNqYW8CB8L8YJQCdHMMej6Tki4uuMeq23cCg==",
     "Name" : "SMART/TNT GIGASTORIES 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -719,7 +709,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "hKhN1U53Bjer74is+nj6UPnfJstVMnlHpxbbwYE7Mn+p2vI0gsy2PtkwW/FnmzIyVZrqaNvZsxXfc4cpkMgUtA==",
+    "Host" : "XhdZT9g1Ck5nOgKTTcHxFHnHnehxxTlVyvUCxnM9zXifmzweSDGN8L2ddbAyBUStZJ9xAVLVK2DcPWT/sTH87g==",
     "Name" : "TNT ML10 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -732,7 +722,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "T8OYb1Aira2y3ZCdos7z4TkVneBWHF2ZsWzgz0HIya7xCiLohwRHWQ18u3Hsr1YURc/WCV2evusKY5GspicNpw==",
+    "Host" : "o2VVzqYibz7svzeI5ffr3e9hfy5GrIp/TpNKg49mif4bom26kZZto+MWhgHq9Pt28yCvHdYGhIXRz0MypJ+CGg==",
     "Name" : "TNT ML10 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -745,7 +735,7 @@
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "4WoAIzflbGUL0yNmUUALUzDEnB1WqSyR5HNdJ0L0K99zQtYKSFrYnya6H3u7wpN6",
+    "Host" : "fwrtxh7xhftGGrxWmjHxup4N89DzkZ155zqZoI3qRmI6Aj22CyN0JDDIv+9RGGRk",
     "Name" : "SUN TU no blocking test",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -758,7 +748,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "cnBVbLz6NLFyuVIM487BmJmDo0Ei8PSoWTP7EXRmub8QClifwEBvku8MI79O5CCqs5hNUxyLlt86/w380xCTLQ==",
+    "Host" : "NUEPX4SXRB2IvG7b5Xv4Ddq9spJxmjuwTPvjP/xDPVlg9ZhBrUs6O4VcjFOKDNgS9Peh8CUbxHw7aLoNw12KpQ==",
     "Name" : "SMART/TNT GIGASTORIES 3",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -771,7 +761,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "7pRRvkNbd6KsA04/vD6+iK7kd2HgP5Oa75Suiof+4Yq6E2u/y9QAv0SsxzTEjybldsFLbRM9UKGW75LEt/CB2k0Tf/8BKMDKgE/9zW/ZVQU=",
+    "Host" : "s+JqqCHvWobXEpcLua/1EmGKJIyd4rmtNIb3Mh++K4a1OFQ2UVuEXRSm8YZCUgjSQ7TOwsUedYh/MVYQABMR3pZDJA7eXEdyNZ5JSeW27kE=",
     "Name" : "SMART GIGAVIDEOS 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -784,7 +774,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "jdnM+IRb9h5mwfZyKLCB7lSvq6CzVJpRi5iiOo/fsjEHVWnLTP1h2CIjrmMcM3sPIT1dswI0Efnya9/NrLIKgy/1Du+1dq8/JUuOcy+IVi8=",
+    "Host" : "UDOHMLoMWJtgdZ5JOQz1Cy/zRr3cXpR38ffBLsi7HA7hvVXBdb+p6NjnHKi6ZJ1siDkgWMzo+aakOGhPP447KGb4LmTzhuyzRs1cU7Bo6SE=",
     "Name" : "SMART GIGAVIDEOS 2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -797,7 +787,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "pKEU1lx8pqQ2ssIX2kGsUq5+DHjEhdmLqD6RHpgmu3bwp0mEXTCVZwvvVrPnpT113Yh80aKpNeXWiXo9Gi2XtX1wzjFISLV0obhRuV+pRLs=",
+    "Host" : "Qn6wt0SD+UN1O4VxgQm1TzScw9KFHSg4T/I10EKz3NSt8oWaalXP4JOYtPmHraSdrbeSa+sZVUMzz1UHuHywNUspZXtuBQK1jgBFboOhXxQ=",
     "Name" : "SMART GIGAGAMES 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -810,7 +800,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "gTFMmtwCpZezIlrR5wXWakA9eGeEjbNkjQpjI4LUqyMUZZP44my3saSm5ZqtqkN3Vj+YXqTq5SDVthEFgfN6FHKgXVv4xwxm+cK1sYotLDg=",
+    "Host" : "HwdZLR06ZnOn/CZCqIqbze7iECwqwZQfRMC5YzyN6ASwuE24f5HjrcZLUPK5oYi7MSefYRa5zyVncqy11OvidP9DRw5GSpeIrQqt1uW+sqY=",
     "Name" : "SMART GIGAGAMES 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -823,7 +813,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "HwK99IhFEZu6QMoUlojEqXalDRpIJPIWCZuZA2mAyntahQym8V93MNlGzSuaY3tGGiKKuZbxt7Ot2i8Ozj4OPA==",
+    "Host" : "TCav0epfp0d6hZSFndywe7qCWkXJ4caV20LwuVHeGqgihU+F56GEp2dt4LKQwYrK5oU7dcPhA3NHEdW7u7Qnug==",
     "Name" : "LUZON STORIES 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -836,7 +826,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "I415E+A3zvuvIhw7ILlRhvFMWBds9x6CV8fzfiItoPCVAACiD3sstsNNOMkH34f7rS9xPZX00GpJfFR0SbHIag==",
+    "Host" : "IPZPfdidUD4ycyHxNhk4teP7mDzbsBPfAvF4TlmAFU/o/y98TTMzzI/rmAF6/Rc/6KjxTOL441XS2nIn5FxODw==",
     "Name" : "LUZON STORIES 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -849,7 +839,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "2hQ5zO/SUhESv5CM9xby1ozkse/F49K7/Y0fIR/YlaQiMNqnd8VQOpibcDZOg2i0OJn63JXRyTLRagNK+EEQA4dhWkBqXhltfA+v50JC9/M=",
+    "Host" : "FAdhoRbitnk89mUZR2VwBOzLkGduvGVQyUIPdYNsSJcH80Jr9QPbyJOaXG3dvIJqNj/mjBui5n6zhs1g8zS9eOjAqv9kdWOIYmYZ05D/b08=",
     "Name" : "GTM EASYSURF/GOSAKTO 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -862,7 +852,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "5wZ2ghwc0JmLahbJqxBzbzBTjkvsKx79q13sCEvmFSMt2T7KQKdR3cBEgwqib80KE+bIr0bygGT+2VBvN1XhDumTzmBdhUg0TfclsESDqKY=",
+    "Host" : "p/9iHB1Hv+RMGg2mI0O/WqH+v3sWOQyHzTkq/zqAE9B7J3QY8e5vdaXjI5B6lPmc7qAS8YsocxPN3qZ7HGakaHM7AOb9pr0wgbyaZ+feK3A=",
     "Name" : "GTM EASYSURF/GOSAKTO 2",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -875,7 +865,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "sPCuzG1xaDplzba1BExafDDmWccCyCf3XUCl+mOZ2SLhlVy73z4B/3l9/PAB8mtthX2H1cBt4ijPiLLhGdribQ==",
+    "Host" : "MBRWnDLjuqo56rEDsbw7jjHpae8rbda9Rq7AwpDF6hQJ5ZaKyTYGf4TuvzTu38hRVam7O2H7idFPO1BRVWbTmg==",
     "Name" : "SUN FLP 3",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -888,7 +878,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "7NEFI4Xk1z2Y+BAo1ptvhmUpGZ3Vyz6nxuc8y4mzTGXnq+XygEKSXpmseUehQYZuZNoo+9//P6XImQsy56v0ng==",
+    "Host" : "VTGja1RGixbKIFwGkrUder6Zb91y3zFGvRrUI/CdBAgnVhQwhbUG012tuvTBCz3gseEH28k5Wz/JSDFKroZcew==",
     "Name" : "SUN FLP 4",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -901,5 +891,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "﻿<strong>\uD83D\uDC3C<font color=\"yellow\"> UNIVERSAL VPN HAS BEEN UPDATED</font>\uD83D\uDC3C</strong>\n<br>\n<strong>⭐<font color=\"red\">What's New?</font>⭐</strong>\n</font>\n<br>\n⭐<font color=\"green\">NEW UPDATED (SERVERS..BY REYMUND RUIZ ..co-owners CHRISTOPHER/SHERMAN/CHAD</font>⭐\n<br>\n⭐<font color=\"red\">BY: UNIVERSAL OWNER: REYMUND RUIZ.....</font>⭐\n\n<br>\n<font color=\"green\">\n<br>\n\n⭐</strong>* VPN COMMON ERRORS & BASIC TROUBLESHOOTING *⭐</strong>\n\n</strong> \n</font>\n<br>\n<font color=\"green\">\n<br>\n\n\n1. WAITING TO SERVER REPLY ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n2. UNKNOWN STATE ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n3. TRANSPORT ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Wrong promo configuration.\n<br>\n- Expired promo.\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n4. DISCONNECTED SUCCESSFULLY\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Change server.\n<br>\n\n</strong> \n</font>\n<font color=\"green\">\n\n5. AUTH FAILED/ CHECK ACCOUNT DETAILS\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Wrong Spelling username or password.\n<br>\n- Expired account.\n<br>\n- Don't make spacing.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n\n6. CRASH LOG ERROR/CAUSE OF ERROR\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Re-open or restart VPN app.\n<br>\n- Restart phone.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n7. ALWAYS CONNECTING STATUS: \n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Weak signal status.\n<br>\n- Weak data receive.\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n8. CLIENT VERIFICATION FAILED\n</strong> \n</font>\n<font color=\"white\">\n<br>\n\n- Set your date and time correctly.\n<br>\n</strong> \n</font>\n<font color=\"green\">\n9. PROXY ERROR\n</strong> \n</font>\n<font color=\"white\">\n\n<br>\n- Turn on and off airplane mode.\n<br>\n- Change server.\n\n<br>\n</strong> \n</font>\n<font color=\"green\">\n10. OTHER VPN STARTED OR VPN STOPPED\n\n</strong> \n</font>\n<font color=\"white\">\n<br>\n- Disable power saving mode.\n<br>\n- Allow vpn to run in background.\n\n<br>\nReminder: \n<br>\n\n</strong> \n</font>\n<font color=\"red\">\n\n⭐</strong> Make sure your VPN app is always up to date.⭐</strong></font>\n<br>\n\n<font color=\"yellow\">\n\n<br>\n\uD83D\uDD30<strong>Account Pricing</strong>\uD83D\uDD30\n</font>\n<br>\n<font color=\"blue\">\n<strong>Premium: </strong>P100.00\n<br>\n<strong>VIP: </strong>P150.00\n<br>\n<strong>Private: </strong>P200.00</font>\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\uD83D\uDD30REMINDERS!\uD83D\uDD30</font></strong>\n<br><font color=\"red\">\n⚠️☢️NO DUAL LOGIN☢️⚠️\n<br>\n\uD83D\uDCF5To avoid account termination\uD83D\uDCF5</font>\n<br>\n\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\uD83C\uDFAD\n<br>\n<br>\n\n<font color=\"yellow\">\n<strong>\n\uD83D\uDD30NOW HIRING!\uD83D\uDD30\n</font>\n\n<br><font color=\"red\">\n\uD83D\uDC65Sub-Admin\n<br>\n\uD83D\uDC65Resellers\n<br>\n\uD83D\uDC65Sub-Resellers</font>\n</strong>\n<br>\n<br>\n<i>\uD83D\uDC4DJoin <strong><font color=\"blue\">UNIVERSAL VPN Team </font></strong>\n<font color=\"yellow\"> now and earn extra income \uD83E\uDD11 upto\n</font> <strong>4k per week. </strong></i>\n<br>\n<br>\n\n⭐⭐\n<br>\n<font color=\"yellow\">\n\uD83D\uDD30LIKE US ON FACEBOOK\uD83D\uDD30\n</font>\n</strong>\n<br>\n<strong>FACEBOOK: \n<font color=\"red\">\nUNIVERSAL VPN Official</font>\n</strong>\n<br>\n<font color=\"blue\">https://www.facebook.com/Universal-VPN-Community-111577567022901/</font>\n\n<br>\n\n<font color=\"green\">\n\uD83D\uDC3CFOR MORE CONCERN, CONTACT:09057387851/09190784813</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n\n<font color=\"blue\">https://https://www.facebook.com/reymund.ruiz.756</font>\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL OWNER/REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n<br>\n\uD83D\uDCAC<strong>\n<font color=\"red\">UNIVERSAL DEVELOPER/OWNERS:by,REYMUND RUIZ</font>\n</strong>\n\n<font color=\"blue\">https://www.facebook.com/reymund.ruiz.756</font>\n\n\n<br>\n",
-  "Version" : 11.7
+  "Version" : 11.8
 }
